@@ -31,3 +31,26 @@
 2. Meet deadlines and respect contributions.
 3. Backup all work in the repository.
 
+Here’s your content formatted for a GitHub `README.md`:
+
+---
+
+# Project Overview
+
+## Ideas
+
+An app that checks in with users who are struggling with mental health, addiction, or similar challenges at intervals throughout the day. It uses **sentiment analysis** to detect if a user is in crisis and can reach out to a **user-defined support team**.
+
+## Problem Statement
+
+When people are in crisis, they often don’t reach out for help.
+
+## Product Concept
+
+AI is applied during chats with the user. The goal is to **replace negative thoughts with more realistic and rational ones**, which can lead to:
+
+* Improved mood and emotional regulation
+* Reinforcement of positive behavior
+
+---
+
