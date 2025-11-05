@@ -1,7 +1,5 @@
 # MindAlign
 
-# Group Charter
-
 ## Members & Roles
 
 | Role                               | Member         | Responsibilities                                     |
@@ -29,11 +27,8 @@
 1. Use GitHub best practices.
 2. Meet deadlines and respect contributions.
 3. Backup all work in the repository.
-
-Here’s your content formatted for a GitHub `README.md`:
-
+4. 
 ---
-
 # Project Overview
 
 ## Ideas
