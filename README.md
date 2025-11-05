@@ -1,5 +1,5 @@
 # CBTaddict
-Team Innovators - MindAlign
+# MindAlign
 
 # Group Charter
 
