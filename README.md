@@ -27,7 +27,6 @@
 1. Use GitHub best practices.
 2. Meet deadlines and respect contributions.
 3. Backup all work in the repository.
-4. 
 ---
 # Project Overview
 
