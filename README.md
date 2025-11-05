@@ -39,7 +39,7 @@ Here’s your content formatted for a GitHub `README.md`:
 
 ## Ideas
 
-An app that checks in with users who are struggling with mental health, addiction, or similar challenges at intervals throughout the day. It uses **sentiment analysis** to detect if a user is in crisis and can reach out to a **user-defined support team**.
+An app that checks in with users who are struggling with mental health, addiction, or similar challenges at intervals throughout the day. It uses **sentiment analysis** and **CBT Therapy** to detect if a user is in crisis and can reach out to a **user-defined support team**.
 
 ## Problem Statement
 
