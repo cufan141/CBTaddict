@@ -24,7 +24,5 @@ Ad hoc meetings as needed
 Guidelines
 
 Use GitHub best practices (branches, PRs, commits).
-
 Meet deadlines and respect contributions.
-
 Backup all work in the repository.
