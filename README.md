@@ -7,10 +7,10 @@ Team Innovators - MindAlign
 
 | Role                               | Member         | Responsibilities                                     |
 | ---------------------------------- | -------------- | ---------------------------------------------------- |
-| Project Manager                    | Chasidy        | Schedule meetings, track progress, manage repository |
-| Data Scientist / ML Engineer       | Josh           | AI model development, coding, analysis               |
-| AI Ethicist / Responsible AI Lead  | Chasidy        | Ensure ethical AI practices, compliance              |
-| Systems Analyst / Product Designer | Josh           | System design, product planning                      |
+| Project Manager                    | Josh           | Schedule meetings, track progress, manage repository |
+| Data Scientist / ML Engineer       | Chasidy        | AI model development, coding, analysis               |
+| AI Ethicist / Responsible AI Lead  | Josh           | Ensure ethical AI practices, compliance              |
+| Systems Analyst / Product Designer | Chasidy        | System design, product planning                      |
 | Data Engineer / Developer          | Chasidy & Josh | Data management, development, integration            |
 
 ## Tools
