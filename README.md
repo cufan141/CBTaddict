@@ -1,4 +1,3 @@
-# CBTaddict
 # MindAlign
 
 # Group Charter
